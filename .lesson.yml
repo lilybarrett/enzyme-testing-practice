@@ -1,0 +1,8 @@
+title: "Enzyme Testing Exercise"
+type: "exercise"
+description: "Practice testing a simple React app with Enzyme"
+tags: "react, enzyme, integration-testing"
+ignore:
+- "node_modules/*"
+- "public/bundle.js"
+- "react/coverage/*"
